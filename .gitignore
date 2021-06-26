@@ -24,4 +24,8 @@ Edinburgh/scotland-latest-free.shp/gis_osm_waterways_free_1.shp
 Edinburgh/scotland-latest-free.shp/gis_osm_waterways_free_1.shx
 cache/
 example.png
+df_Edinburgh.pkl
+df_routes.pkl
+df_stations
+factor_trips
 
